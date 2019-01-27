@@ -25,3 +25,7 @@ body {
 .left{
     margin-left: 2rem;
 }
+.btn{
+    background-color: #1321c1;
+    color:white !important;
+}
